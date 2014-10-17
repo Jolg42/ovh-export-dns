@@ -1,8 +1,9 @@
 #!/usr/bin/ruby
+require 'yaml'
+require 'FileUtils'
 require 'ovh/rest'
 require 'launchy'
 require 'highline/import'
-require 'yaml'
 
 config = YAML.load_file('config.yml')
 
