@@ -1,4 +1,4 @@
-ovh-export-dns-zone for [OVH.com REST API](https://api.ovh.com/console/)
+ovh-export-dns for [OVH.com REST API](https://api.ovh.com/console/)
 ===================
 
 This is a basic script (My first Ruby script ;)
