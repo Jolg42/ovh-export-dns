@@ -1,0 +1,21 @@
+GIT
+  remote: git://github.com/Jolg42/ovh-rest.git
+  revision: 5c6d85c1e6b7e412d8793c53200f1f2e78be542f
+  specs:
+    ovh-rest (0.0.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.3.6)
+    highline (1.6.21)
+    launchy (2.4.2)
+      addressable (~> 2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  highline
+  launchy
+  ovh-rest!
